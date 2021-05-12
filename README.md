@@ -1,1 +1,1 @@
-# I'm Hong Dat Nguyen. I come form Viet Nam.
+# 👋 Hi, I'm Hong Dat Nguyen.
