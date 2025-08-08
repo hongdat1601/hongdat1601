@@ -2,8 +2,8 @@
 
 > A modern, professional portfolio built with love by a full-stack developer.
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=hongdat1601&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/hongdat1601?label=Follow&style=social)
 
 ---
 
